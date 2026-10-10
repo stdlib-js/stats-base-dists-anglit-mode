@@ -336,7 +336,7 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-anglit-mode/main/LICENSE
 
-[anglit-distribution]: https://en.wikipedia.org/wiki/Anglit_distribution
+[anglit-distribution]: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.anglit.html
 
 [mode]: https://en.wikipedia.org/wiki/Mode_%28statistics%29
 
